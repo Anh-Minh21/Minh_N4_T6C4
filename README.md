@@ -6,7 +6,10 @@
 <br>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
-
+- 🔭 I’m currently working on some project
+- 🛡 I'm currently studying at Huflit
+- 💻 I’m currently learning with development
+- 📫 How to reach me: just mail this "anhminhttz@gmail.com"
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Languages and Tools:
 <p >
     <picture align="center">
@@ -16,9 +19,4 @@
     </picture>
 </p>
 
-<br>
-<img src="https://github.com/user-attachments/assets/70819b2f-a722-4149-b576-5c6d6111829a" width ="80"> Connect with me 
-<a href="mailto:unmesh.280@gmail.com" >
-    <img align="center" alt="Unmesh | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-</br>
+
